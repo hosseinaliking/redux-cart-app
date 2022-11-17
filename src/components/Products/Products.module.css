@@ -1,0 +1,11 @@
+.title {
+  text-align: center;
+  color: #fff;
+  margin-block: 20px;
+}
+
+.cartContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 20pxl
+}

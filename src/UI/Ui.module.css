@@ -1,0 +1,29 @@
+.container {
+  width: min(1200px, 100% - 2rem);
+  padding-inline: 5px;
+  margin-inline: auto;
+}
+
+.flexAround {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.homeContent {
+  padding-top: 30px;
+  background-color: #3C4048;
+  min-height: calc(100vh - 63px);
+}
+
+.section {
+  width: min(780px, 100% - 2rem);
+  margin-inline: auto;
+  padding: 5px; 
+}
+
+.basketContainer {
+  width: min(480px, 100% - 2rem);
+  margin-inline: auto;
+  padding: 5px; 
+}
